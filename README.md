@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=Ugul's%20Github&animation=twinkling&desc=Welcome&descAlignY=75)
+<a href="https://capsule-render.vercel.app/api">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=Ugul's%20Github&animation=twinkling&desc=Welcome&descAlignY=75" width=94.5%/>
+</a>
 
 <a href="https://github.com/Uguls/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uguls&theme=dark&layout=donut&disable_animations=true&hide=css,html" width=38% />
