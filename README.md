@@ -48,7 +48,10 @@
 <!-- Others -->
 <p><strong>Others</strong></p>
 <div>
-    <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+    <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
+    <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white">
+    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white">
 </div><br>
 </div>
 <details>
