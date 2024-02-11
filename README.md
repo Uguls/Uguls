@@ -57,14 +57,15 @@
 <details>
 <summary>About Me</summary>
 <span>
-    <a href="https://mailto:phw0224@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-7952B3?style=flat-square&logo=gmail&logoColor=white">
-    </a>
+  <a href="mailto:phw0224@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-7952B3?style=flat-square&logo=gmail&logoColor=white">
+  </a>
 </span>
 <span>
-    <a href="https://mailto:9511599@naver.com">
-        <img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=Naver&logoColor=white">
-    </a>
+  <a href="mailto:9511599@naver.com">
+    <img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=Naver&logoColor=white">
+  </a>
 </span>
 </summary>
+</details>
 </div>
