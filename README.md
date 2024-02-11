@@ -14,12 +14,18 @@
 </a>
 <img src="https://github.com/Uguls/Uguls/blob/output/github-snake-dark.svg" width="95.5%">
 
-## 🔨 Once I've used 🔨
+<h2>🔨 Tech Stack 🔨</h2> 
+<h3> 💡 Used as the main 💡</h3>
+<div>
+    <img src="https://img.shields.io/badge/Node js-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+</div>
+<h3> 💡 Once I've used 💡</h3>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
 <!-- Backend -->
 <p><strong>Backend</strong></p>
 <div>
-    <img src="https://img.shields.io/badge/Node js-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
 </div>
     <!-- Frontend -->
 <p><strong>Frontend</strong></p>
@@ -32,7 +38,7 @@
 <!-- Database -->
 <p><strong>Database</strong></p>
 <div>
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+<!--     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  -->
 </div>
 <!-- Server -->
 <p><strong>Server</strong></p>
