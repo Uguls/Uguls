@@ -1,6 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=Ugul's%20Github&animation=twinkling&desc=Welcome&descAlignY=75)
 
-![Uguls's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uguls&show_icons=true&theme=dark)
+<a href="https://github.com/Uguls/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uguls&theme=dark&layout=donut&disable_animations=true&hide=css,html" width=38% />
+</a>
+<a href="https://github.com/Uguls/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Uguls&show_icons=true&theme=dark" width=56%/>
+</a>
+<a href="https://github.com/Uguls/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uguls&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
