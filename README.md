@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://capsule-render.vercel.app/api">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=Ugul's%20Github&animation=twinkling&desc=Welcome&descAlignY=75" width=94.5%/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=Uguls'%20Github&animation=twinkling&desc=Welcome&descAlignY=75" width=94.5%/>
 </a>
 
 <a href="https://github.com/Uguls/github-readme-stats">
