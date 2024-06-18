@@ -6,10 +6,9 @@
 <a href="https://github.com/Uguls/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uguls&theme=dark&layout=donut&disable_animations=true&hide=css,html" width=38% />
 </a>
-
-
-[![Ugul's GitHub stats](https://github-readme-stats-swart-five-18.vercel.app/api?username=Uguls&show_icons=true&theme=dark&count_private=true&include_all_commits=true)](https://github.com/Uguls/github-readme-stats)
-
+<a href="https://github.com/Uguls/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Uguls&show_icons=true&theme=dark" width=56%/>
+</a>
 <a href="https://github.com/Uguls/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uguls&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
