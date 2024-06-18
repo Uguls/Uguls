@@ -8,7 +8,7 @@
 </a>
 
 
-![Ugul's GitHub stats](https://github-readme-stats-swart-five-18.vercel.app/api?username=Uguls&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+[![Ugul's GitHub stats](https://github-readme-stats-swart-five-18.vercel.app/api?username=Uguls&show_icons=true&theme=dark&count_private=true&include_all_commits=true)](https://github.com/Uguls/github-readme-stats)
 
 <a href="https://github.com/Uguls/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uguls&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
