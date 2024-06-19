@@ -7,7 +7,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uguls&theme=dark&layout=donut&disable_animations=true&hide=css,html" width=38% />
 </a>
 <a href="https://github.com/Uguls/github-readme-stats">
-<img src="https://github-readme-stats-steel-xi.vercel.app/api?username=Uguls&show_icons=true&theme=dark&rank_icon=github" width=56%/>
+<img src="https://github-readme-stats-steel-xi.vercel.app/api?username=Uguls&show_icons=true&theme=dark&rank_icon=github&locale=kr" width=56%/>
 </a>
 
 <a href="https://github.com/Uguls/github-readme-activity-graph">
