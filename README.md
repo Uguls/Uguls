@@ -20,7 +20,8 @@
 <div>
     <img src="https://img.shields.io/badge/Node js-007396?style=for-the-badge&logo=nodejs&logoColor=white"> 
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/React-4479A1?style=for-the-badge&logo=react&logoColor=white">
 </div>
 <h3> 💡 Once I've used 💡</h3>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
