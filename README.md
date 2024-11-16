@@ -2,7 +2,15 @@
 <a href="https://capsule-render.vercel.app/api">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=Uguls'%20Github&animation=twinkling&desc=Welcome&descAlignY=75" width=94.5%/>
 </a>
-
+<div>
+    <a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/Uguls"
+  width="800"
+  height="300"
+/>
+</a>
+</div>
 <a href="https://github.com/Uguls/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uguls&theme=dark&layout=donut&disable_animations=true&hide=css,html" width=38% />
 </a>
