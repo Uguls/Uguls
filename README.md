@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://capsule-render.vercel.app/api">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=Uguls'%20Github&animation=twinkling&desc=Welcome&descAlignY=75" width=94.5%/>
-</a>
+<!-- </a>
 <div>
     <a href="https://github.com/devxb/gitanimals">
 <img
@@ -10,7 +10,7 @@
   height="300"
 />
 </a>
-</div>
+</div> -->
 <a href="https://github.com/Uguls/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uguls&theme=dark&layout=donut&disable_animations=true&hide=css,html" width=38% />
 </a>
@@ -19,9 +19,9 @@
 </a>
 
 <a href="https://github.com/Uguls/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Uguls&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
-<img src="https://github.com/Uguls/Uguls/blob/output/github-snake-dark.svg" width="95.5%">
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uguls&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/> -->
+<!-- </a> -->
+<!-- <img src="https://github.com/Uguls/Uguls/blob/output/github-snake-dark.svg" width="95.5%"> -->
 
 <h2>🔨 Tech Stack 🔨</h2> 
 <h3> 💡 Used as the main 💡</h3>
